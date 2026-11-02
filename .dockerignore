@@ -1,0 +1,9 @@
+**/.git
+**/.vs
+**/bin
+**/obj
+**/.env
+credentials.json
+**/logs
+DozorLogger.Tests/
+*.user

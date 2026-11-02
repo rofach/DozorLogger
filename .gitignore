@@ -1,0 +1,18 @@
+# Credentials & Environment secrets
+credentials.json
+.env
+
+# Logs and local CSV data
+logs/
+*.csv
+
+# Build output
+bin/
+obj/
+TestResults/
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+
